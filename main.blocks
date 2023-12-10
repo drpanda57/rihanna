@@ -1,0 +1,19 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id=")k*!vRf0$I-lh5-9d2eJ">Schere</variable><variable id="{!tv+#QzdzU`3p0M7iaw">Stein</variable><variable id="hs)*8UXa|Jd/vD3~r2=s">Papier</variable><variable id="yZW-%%%5+NgW]$pYybGU">Computer</variable></variables><block type="pxt-on-start" id="g1}XhWcg0(;b[OFik)/?" x="20" y="20"></block><block type="device_button_selected_event" id="KOq`*(:?XrgEKE2#M1NV" x="225" y="20"><field name="NAME">Button.A</field><value name="eventType"><shadow type="control_button_event_click" id="Lx!Rw2M7YM{_Dh@}fL[U"></shadow></value><statement name="HANDLER"><block type="device_show_leds" id="i)8tRqW40M6O%T-?,AkX"><field name="LEDS">`
+        . . . . . 
+        # . . . # 
+        . # . # . 
+        . . # . . 
+        . # . # .
+        `</field></block></statement></block><block type="device_button_selected_event" id="SyUrtYXlQ;w1fnNYw$fE" x="529" y="20"><field name="NAME">Button.B</field><value name="eventType"><shadow type="control_button_event_click" id="qy6U}=QK1;Dt=-g1J177"></shadow></value><statement name="HANDLER"><block type="device_show_leds" id="Umo689J.{rD_WsvOOYrp"><field name="LEDS">`
+        . . . . . 
+        . # # # . 
+        . # # # . 
+        . # # # . 
+        . . . . .
+        `</field></block></statement></block><block type="device_button_selected_event" id="l|E2Bm#~*RMQj;iX_[]J" x="833" y="20"><field name="NAME">Button.AB</field><value name="eventType"><shadow type="control_button_event_click" id="OYNMWW,%JkiPTnPN_z@`"></shadow></value><statement name="HANDLER"><block type="device_show_leds" id=")YVTkn[T;oicXj)oL}u?"><field name="LEDS">`
+        . . . . . 
+        . . # # . 
+        . # # # . 
+        . # # . . 
+        . . . . .
+        `</field></block></statement></block><block type="device_forever" id="??^0QQiOk6SI;qpqkG79" x="20" y="370"></block><block type="function_definition" id="LQtZL8Q~jI}:AM!sS=71" x="225" y="370"><mutation name="ComputerSign" functionid="UzDOTDO#.!g?jz!FcvJc"></mutation><field name="function_name">ComputerSign</field></block><block type="device_random" id="YCn?nfV-:c,nJ1Jf[whM" disabled="true" x="601" y="476"><value name="min"><shadow type="math_number" id="mkF6M~Vegk[_,++6zonx" disabled="true"><field name="NUM">0</field></shadow></value><value name="limit"><shadow type="math_number" id="_n=|.@k;L8/hak.Os(6#" disabled="true"><field name="NUM">10</field></shadow></value></block></xml>
